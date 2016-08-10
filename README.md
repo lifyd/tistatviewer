@@ -11,4 +11,4 @@ The original goal was to use Valve's web-based client (as it has stats baked in.
 
 <hr /> 
 ## **Updates:**
-8/10/2016: Initial commit. Second version of 'tistatviewer'.
+**8/10/2016**: Initial commit. Second version of 'tistatviewer'. 'README.md' created.
