@@ -14,6 +14,6 @@
 <hr /> 
 ## **Updates:**
 <ul>
-  <li>**8/11/2016**: Uploaded screenshot.</li>
+  <li>**8/11/2016**: Uploaded screenshot. Updated README.md with screenshot, made 'updates' section use a list-based system, and justified the text.</li>
   <li>**8/10/2016 (v2.1)**: Resized middle pane so that a scroll bar would not appear in the 'Player Statistics' area.</li>
   <li>**8/10/2016 (v2)**: Initial commit. Second version of 'tistatviewer'. 'README.md' created.</li>
