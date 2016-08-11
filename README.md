@@ -13,6 +13,7 @@ The original goal was to use Valve's web-based client (as it has stats baked in.
 
 <hr /> 
 ## **Updates:**
-<p /> **8/11/2016**: Uploaded screenshot.
-<p /> **8/10/2016 (v2.1)**: Resized middle pane so that a scroll bar would not appear in the 'Player Statistics' area. 
-<p /> **8/10/2016 (v2)**: Initial commit. Second version of 'tistatviewer'. 'README.md' created.
+<ul>
+  <li>**8/11/2016**: Uploaded screenshot.</li>
+  <li>**8/10/2016 (v2.1)**: Resized middle pane so that a scroll bar would not appear in the 'Player Statistics' area.</li>
+  <li>**8/10/2016 (v2)**: Initial commit. Second version of 'tistatviewer'. 'README.md' created.</li>
