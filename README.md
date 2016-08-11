@@ -1,6 +1,8 @@
 # tistatviewer
 '**tistatviewer**' is a basic locally-based screen for viewing Dota 2 games, with Twitch chat and (somewhat) live statitsics.
 
+<img src="https://raw.githubusercontent.com/lifyd/tistatviewer/master/Screenshot.jpg" width="100%" height="100%" />
+
 <hr />
 ## **Why:**
 Valve's web-based client (http://www.dota2.com/watch/) for watching Dota 2 games in the browser _is_ available. The problem is however, the client tends to be quite buggy, doesn't have Twitch chat, and the stats (Top left pane, and the map.) sometimes randomly malfunctions. 
