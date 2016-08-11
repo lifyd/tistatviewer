@@ -1,5 +1,5 @@
 # tistatviewer
-'**tistatviewer**' is a basic locally-based screen for viewing Dota 2 games, with Twitch chat and (somewhat) live statitsics.
+'**tistatviewer**' is a basic HTML locally-based screen for viewing Dota 2 tournament games, with Twitch chat and (somewhat) live statistics.
 
 <img src="https://raw.githubusercontent.com/lifyd/tistatviewer/master/Screenshot.jpg" width="100%" height="100%" />
 
