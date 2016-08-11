@@ -5,13 +5,11 @@
 
 <hr />
 ## **Why:**
-<p align="right">
-Valve's web-based client (http://www.dota2.com/watch/) for watching Dota 2 games in the browser _is_ available. The problem is however, the client tends to be quite buggy, doesn't have Twitch chat, and the stats (Top left pane, and the map.) sometimes randomly malfunctions. 
+<p align="justify">Valve's web-based client (http://www.dota2.com/watch/) for watching Dota 2 games in the browser _is_ available. The problem is however, the client tends to be quite buggy, doesn't have Twitch chat, and the stats (Top left pane, and the map.) sometimes randomly malfunctions.</p>
 
-The goal of this small web project was to use some old web technologies (Iframe> and table) and create something incredibly basic for this purpose. 
+<p align="justify">The goal of this small web project was to use some old web technologies (Iframe> and table) and create something incredibly basic for this purpose.</p>
 
-The original goal was to use Valve's web-based client (as it has stats baked in.) and merge that with Twitch Chat. Unfortunately, the web-based client will not appear in an Iframe. Therefore, the Twitch browser-based viewer was combined with a third-party web-based stats site.
-</p>
+<p align="justify">The original goal was to use Valve's web-based client (as it has stats baked in.) and merge that with Twitch Chat. Unfortunately, the web-based client will not appear in an Iframe. Therefore, the Twitch browser-based viewer was combined with a third-party web-based stats site.</p>
 
 <hr /> 
 ## **Updates:**
